@@ -1,0 +1,8 @@
+{
+    "api_name":"data-app",
+    "name":"Data Manager",
+    "description":"A simple AngularJS application to manage SQL data.",
+    "is_active":1,
+    "url":"/index.html",
+    "is_url_external":0
+}
