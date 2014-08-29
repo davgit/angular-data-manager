@@ -8,7 +8,7 @@ angular
         'ngRoute',
         'dfTable'
     ])
-    .constant('DSP_URL', window.top.CurrentServer)
+    .constant('DSP_URL', '')
     .constant('DSP_API_KEY', 'data-app')
     .config(['$httpProvider', 'DSP_API_KEY', function ($httpProvider, DSP_API_KEY) {
 
