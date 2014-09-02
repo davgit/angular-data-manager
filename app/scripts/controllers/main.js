@@ -9,7 +9,6 @@ angular.module('schemaAppApp')
 
 
         $scope.__services__ = $scope.__getDataFromResponse(getDataServices);
-        // $scope.__services__.push({api_name:'system', name: 'System'});
 
         $scope.selected = {
             service: null,
